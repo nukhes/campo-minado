@@ -12,7 +12,6 @@ int x = 0;
 int y = 0;
 int slotNum = 0;
 
-// bandeiras para marcar as bombas e ganhar o jogo
 const int bandeirasInicio = 8; // ALTERAR AQUI INFLUÊNCIA NO NÚMERO DE BOMBA AUTOMATICAMENTE
 int bandeiras = bandeirasInicio;
 
