@@ -218,7 +218,8 @@ void VerificarEstado() // este metodo oira verificar por perdas ou vitórias
 		}
 	}
 }
-void JogoMain() // metodo que roda o jogo em um loop
+
+void JogoMain() // metodo que roda o jogo
 {
 	JogoRefresh();
 	while (estadoJogo == true) {
@@ -239,7 +240,8 @@ void JogoMain() // metodo que roda o jogo em um loop
 	}
 
 	Console.WriteLine("\nDeseja jogar novamente?\n\n[S] Sim\n[N] Nao\n\n");
-	#pragma warning disable CS8602 // Dereference of a possibly null reference.
+
+	#pragma warning disable CS8602 // desabilitar o warning do compiler pq ele é beta
 	if (Console.ReadLine().Trim().Equals("S", StringComparison.CurrentCultureIgnoreCase)) {
 		estadoJogo = true;
 		venceuJogo = false;
@@ -247,7 +249,7 @@ void JogoMain() // metodo que roda o jogo em um loop
 		JogoRefresh();
 		JogoMain();
 	}
-	#pragma warning restore CS8602 // Dereference of a possibly null reference.
+	#pragma warning restore CS8602 // desabilitar o warning do compiler pq ele é beta
 
 }
 
