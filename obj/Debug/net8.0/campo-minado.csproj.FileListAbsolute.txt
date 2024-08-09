@@ -1,0 +1,15 @@
+/home/pedro/Documentos/GitHub/campo-minado/bin/Debug/net8.0/campo-minado
+/home/pedro/Documentos/GitHub/campo-minado/bin/Debug/net8.0/campo-minado.deps.json
+/home/pedro/Documentos/GitHub/campo-minado/bin/Debug/net8.0/campo-minado.runtimeconfig.json
+/home/pedro/Documentos/GitHub/campo-minado/bin/Debug/net8.0/campo-minado.dll
+/home/pedro/Documentos/GitHub/campo-minado/bin/Debug/net8.0/campo-minado.pdb
+/home/pedro/Documentos/GitHub/campo-minado/obj/Debug/net8.0/campo-minado.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Documentos/GitHub/campo-minado/obj/Debug/net8.0/campo-minado.AssemblyInfoInputs.cache
+/home/pedro/Documentos/GitHub/campo-minado/obj/Debug/net8.0/campo-minado.AssemblyInfo.cs
+/home/pedro/Documentos/GitHub/campo-minado/obj/Debug/net8.0/campo-minado.csproj.CoreCompileInputs.cache
+/home/pedro/Documentos/GitHub/campo-minado/obj/Debug/net8.0/campo-minado.sourcelink.json
+/home/pedro/Documentos/GitHub/campo-minado/obj/Debug/net8.0/campo-minado.dll
+/home/pedro/Documentos/GitHub/campo-minado/obj/Debug/net8.0/refint/campo-minado.dll
+/home/pedro/Documentos/GitHub/campo-minado/obj/Debug/net8.0/campo-minado.pdb
+/home/pedro/Documentos/GitHub/campo-minado/obj/Debug/net8.0/campo-minado.genruntimeconfig.cache
+/home/pedro/Documentos/GitHub/campo-minado/obj/Debug/net8.0/ref/campo-minado.dll
